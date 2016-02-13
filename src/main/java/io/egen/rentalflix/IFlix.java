@@ -1,4 +1,4 @@
-package io.egen.rentalflix;
+package main.java.io.egen.rentalflix;
 
 import java.util.List;
 
